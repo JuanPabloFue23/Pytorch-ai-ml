@@ -85,3 +85,10 @@ htmlcov/
 # =========================
 .env
 .env.*
+
+
+# MacOS
+.DS_Store
+
+# PyCharm / IDEs
+.idea/
